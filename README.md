@@ -1,3 +1,5 @@
+Pending: not adding Responsive classes 
+do open in laptop
 # Website link : https://secy-task-d993da.netlify.app/
 # Getting Started with Create React App
 
