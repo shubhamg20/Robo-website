@@ -1,0 +1,99 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.navbar {
+  display: flex;
+}
+.img {
+  width: 400px;
+  margin-left: 0;
+}
+.margin {
+  position: absolute;
+  right: 20px;
+}
+.bg-nav {
+  background-color: hsla(200, 5%, 65%, 0.89);
+}
+.nav-link {
+  font-size: 20px;
+  font-weight: 500;
+  width: 100px;
+}
+.footer {
+  /* position:absolute;
+  bottom:0; */
+  width: 100%;
+  height: 140px;
+  background-color: hsla(200, 5%, 65%, 0.89);
+  padding: 10px;
+}
+a.social {
+  margin: 0 1rem;
+}
+a.youtube {
+  color: #eb3223;
+}
+
+a.facebook {
+  color: #4968ad;
+}
+.team {
+  position: relative;
+  width: 100%;
+  height: 500px;
+  font-family: "Love Ya Like A Sister", cursive;
+  line-height: 1;
+  font-weight: 500;
+  font-size: 60px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  text-align: center;
+  color: #f8f6f6;
+  background-color: hsla(200, 3%, 40%, 0.89);
+}
+a.github {
+  color: #eaedf0;
+}
+.coordi {
+  margin: 40px;
+  background-color: white;
+  width: 170px;
+  height: 300px;
+  display: inline-block;
+}
+.coordis-info {
+  padding: 15px;
+  background-color: rgb(175, 137, 66);
+  width: 100%;
+  height: 140px;
+  padding: 0px;
+  font-size: 20px;
+}
+h3 {
+  font-weight: 50;
+}
+.slog-parent {
+  padding: 15px;
+  margin-top: "10px";
+  margin-bottom: "0px";
+  width: "100%";
+  height: "190px";
+  background-color: hsla(197, 17%, 92%, 0.89);
+}
+.body-slog {
+  font-weight: "200";
+  font-size: "10px";
+  font-family: "'Love Ya Like A Sister', cursive";
+  padding: "0px";
+}
+.anchor{
+  color: "white";
+  position: "absolute";
+  right: "20px";
+  padding-bottom: "10px";
+}
+.anchor:hover{
+  color:pink
+}
